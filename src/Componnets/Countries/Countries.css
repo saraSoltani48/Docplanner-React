@@ -1,0 +1,51 @@
+.photos-pays{
+    width: 90%;
+    
+}
+.see-openings:hover{
+    background: #1662c6;
+}
+.see-openings a{
+    color: white;
+}
+.see-openings{
+    background-color: #3d83df; 
+    border-radius: 5px; 
+    width: 150px; 
+    height: 30px;
+    margin-left: 30px;
+
+}
+.titre{
+    margin-top:20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+     color: #747474;
+}
+.ville{
+        
+    margin-bottom: 30px;
+}
+.pays div:hover{
+    box-shadow: 0px 20px 15px #aaaaaa;}
+ .pays div {
+        width: 400px;
+    }
+    .pays{
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-left: 50px;
+       }
+       .countries{
+        text-align: center;
+        color: #ababab;
+        padding: 100px;
+    }
+    .countries a{
+     text-decoration: none;
+     color: #3d83df;
+    }
+    .countries a:hover{
+     text-decoration:underline;
+    }

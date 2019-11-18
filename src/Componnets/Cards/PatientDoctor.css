@@ -1,0 +1,38 @@
+.card{
+    font-family: "Times New Roman", Times, serif;
+    margin: 10px;
+    height: 350px;
+    overflow: hidden;
+    position: relative;
+    margin-right: 80px;
+    
+   
+}
+.card1{
+    background-color: #00b39b;
+
+}
+.card2{
+    background-color:blue;
+}
+.patient-doctor {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    flex: 1;}
+.transparent{
+    margin-left: 20px;
+    
+}
+.img-patient-doctors{
+    width: 60%;
+    height: 60%;
+    bottom: 0;
+    right:-50px;
+    position: absolute;
+}
+.select{
+    width: 200px;
+        height: 40px;
+        border-radius: 5px;
+}

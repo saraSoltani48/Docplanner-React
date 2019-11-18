@@ -1,0 +1,86 @@
+.logo-docplanner {
+    width: 300px;
+    margin: 25px;
+   }
+   .main-list {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: snow;
+    
+    
+   }
+   .list-menu {
+    margin-right: 40px;
+    align-items: center;
+    display: flex;
+    list-style: none;
+    margin-right: 70px;
+   }
+   .dropdown-departement{
+    display: none;
+       position: absolute;
+       box-shadow: 13px 2px #fdfcfc;
+   }
+  .dropdown-departement li {
+    list-style: none;
+  }
+  .link-nav{  
+      margin: 20px;
+      font-size: 17px;
+      font-family: "Times New Roman", Times, serif;
+      
+  }
+  .link-nav:hover{
+      color: 	#90EE90;
+      cursor: pointer;
+  }
+  .dropdown-departement li{
+    color: #747474;
+  }
+  .dropdown-departement li:hover{
+      color: saddlebrown;
+  }
+  .link-nav:hover .dropdown-departement{
+      display: block;
+      line-height: 30px;
+  }
+  .article {
+    padding: 90px;
+   }
+   .img_lead{
+       display: flex;
+       justify-content: center;
+       margin-left: 580px;
+       margin-top: 20px;
+   }
+   .title_docplanner{
+    font-family: "Times New Roman", Times, serif;
+    color: #00b39b;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+   }
+   .paragraph-docpalanner{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    margin: 0px 40px;
+    color: #747474;
+    line-height: 1.6;
+    font-size: 18px;
+    font-family: "Times New Roman", Times, serif;
+   }
+   .para{
+       margin-right: 50px;
+       
+   }
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+.biggest {
+    display: flex;
+    background:#e5faf8;
+        
+}
+.leader{
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    padding: 10px;
+    text-align: center;
+    color: #747474;
+    width: 180px;margin:15px;
+       background-color: white;
+       
+}
+.lead{
+    width: 40px;
+}
+.leader:nth-child(odd){
+    margin-top:50px ;
+}
+.logo-doc {
+    position: absolute;
+    bottom: -100px;}
+
+.health{
+    width: 490px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.world h1{
+    color: #00b39b;
+    }
+ .world p {color: #747474;
+        font-family: Helvetica Neue,Helvetica,Arial,sans-serif;}
+        .leader h2 {
+            color: #00b39b;
+        }
+        .world{
+            position: relative;
+            overflow: hidden;
+        }
+        .live{
+            text-align: center;
+            width: 500px;
+            margin-left: 30%;
+           }
+           .live h2{ color: #00b39b;}
+           .live p{ color: #747474;}

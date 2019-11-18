@@ -1,0 +1,21 @@
+
+.svg-global{
+    display: flex;
+    margin-top: 50px;
+   
+}
+.culture{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.svg{
+    padding:15px;
+    fill:#747474;
+}
+.svg:hover{
+    fill:#00b39b;
+  }
+.titre{
+color: #00b39b;
+margin-left: 50px;}
